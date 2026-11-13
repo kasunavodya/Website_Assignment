@@ -1,34 +1,24 @@
-# ORDER CHIMPS - ASSIGNMENT
+# Website Assignment
 
-****************** Frontend ******************
+A simple website built with React and Material Tailwind as a frontend assignment.
 
-* reactjs
-* expressjs
-* material tailwind
-* template css
+## Tech Stack
 
-**FRONTEND FILES**
+- React.js
+- Tailwind CSS
+- Material Tailwind
 
-Assets -
+## Run the Project
 
-* css
-* images
-* js
-* webfonts
+```bash
+git clone https://github.com/kasunimakalanda/Website_Assignment.git
+cd Website_Assignment
+npm install
+npm start
+```
 
-Pages -
+Open `http://localhost:3000` in your browser.
 
-* home
-* header
-* footer
-* App.js
-* index.css
-* index.js
+## Note
 
-Best Practices -
-
-* File Organization (assets, components)
-* CSS Styling
-* Responsive Design
-* Components Naming
-* Undestandable Comments
+Created for assignment purposes only.
